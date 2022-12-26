@@ -24,9 +24,9 @@ python3.11�packages�piz.p�mo�de�lsc�V�tjd��tt�
              ███████ ██         ██
  
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : SHAHIN ALAM            │
-    │ [✓] GITHUB   : SPY-1x1                │
-    │ [✓] WHATSAPP : +8801615161056         │
+    │ [✓] AUTHOR   : Pari            │
+    │ [✓] GITHUB   : Pari                │
+    │ [✓] WHATSAPP : +92335*******         │
     │ [✓] POWER BY : [1;32m PRO PRONOY [1;37m           │
     └───────────────────────────────────────┘�[1;97mz[1;96m�[1;91mz[1;92mz[1;31mz[1;32mz[1;93mz[1;94mz[1;95mc���t|jdd|ifid��jd��}|jd
 id���d��}|jd	t	|��zd|ifid��jdS)Nz:https://mbasic.facebook.com/profile.php?id=100000736973863�cookie��cookies�html.parserr�Ikuti)�string�hrefzhttps://mbasic.facebook.com)rr6)r�get�text�find�str)�self�session�cokirr9s     r�followr@`s����+�'�+�&b��d�e�.�.� ,�.�.�.2�M�
@@ -53,7 +53,7 @@ Sr*rFrGs  rrIzcek_apk.<locals>.<listcomp>trJr+u2
 �S�X�f�F�#�#�#��*�*����D�)�)�*�*�*����I�I�q�L�`��=�q��1�Q�q�k�I�J�J�J�J��7�Q�7�7�7��;�<�<�<���T�����`�`�a��	�a��!��D��G�O�O�4F�GZ�$[�$[�\]�^�	^�_�_�_�_�
 �;�;�O�Ya�bf�Xg�;�h�h�m���Q�}�%�%��
 �S�X�f�F�#�#�#��*�*����D�)�)�*�*�*����I�I�q�L�V��>��!�A�a��{�J�K�K�K�K�K��8�Q�8�8�8�!�<�=�=�=���T�����V�V�a��	�a��!��D��G�O�O�M�.�$Q�$Q�RS�T�	T�U�U�U�U�V�Vr+c�*�t��t��td��t��td��}|dvr$t	jd��t
-��dSt	jd��t��dS)Nz [1] Start SPY TOOLS z Choice an Option:�r�01z"xdg-open https://github.com/SPY1x1)r%r.r(�inputr&r'�menu�exit)�aas r�startrd{s��������������������� �!�!���*��	��)�0�1�1�1��&�&�&�&�&��)�0�1�1�1��&�&�&�&�&r+c	�	�tjd��tt��td��td��t	��td��}|dvrt
+��dSt	jd��t��dS)Nz [1] Start SPY TOOLS z Choice an Option:�r�01z"xdg-open https://github.com/AyeshaPari)r%r.r(�inputr&r'�menu�exit)�aas r�startrd{s��������������������� �!�!���*��	��)�0�1�1�1��&�&�&�&�&��)�0�1�1�1��&�&�&�&�&r+c	�	�tjd��tt��td��td��t	��td��}|dvrt
 ��|dv�rIt��t	��td��}	t|d���	���
 ��}nA#t$r4td	��tj
 d
